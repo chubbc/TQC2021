@@ -1,7 +1,6 @@
-Allows for a <a href="https://github.com/hakimel/reveal.js/">reveal.js</a> presentation consisting of queued up Manim animations. Based on <a href="https://github.com/anjandn/manim_reveal">anjandn/manim_reveal</a>, but updated to work with ManimCE 0.7.0 (manim_reveal was broken by manim updates).
+This is my first test of using manim for both a pre-recorded and life conference presentation. 
 
-Go <a href="https://christopherchubb.com/manim_slides">here</a> for a live demonstration of it working.
+This talk was built upon manimCE 0.7.0. The live slides are built on react.js, and visible <a href="http://christopherchubb.com/TQC2021">here</a> (see my <a href="https://github.com/chubbc/manim_slides">manim_slides</a> repo for details on how that works). The source code for the full talk is also included in <code>full_talk</code>.
 
-Manim code is put into <code>./talk.py</code>, and the corresponding slides need to be put into <code>./index.html</code>. To compile the manim videos for slide X run <code>manimce talk.py X</code>.
+The Q&A using the live slides is available <a href="https://www.youtube.com/watch?v=Xn3aIxk6ZQk">here</a>, and the full talk <a href="https://www.youtube.com/watch?v=1zkNOs0dt4Y">here</a> (<a href="https://www.youtube.com/watch?v=pk92HkWNTe0">original conference video</a>).
 
-To view a local copy you must run <code>npm start</code> on the local copy.
