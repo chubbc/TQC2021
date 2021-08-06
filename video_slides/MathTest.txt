@@ -1,0 +1,4 @@
+<p class="fragment" type='video' time_start=0 time_end=3.2500000000000027></p>
+<p class="fragment" type='video' time_start=3.2500000000000027 time_end=5.716666666666666></p>
+<p class="fragment" type='video' time_start=5.716666666666666 time_end=8.183333333333326></p>
+<p class="fragment" type='video' time_start=8.183333333333326 time_end=10.399999999999988></p>
